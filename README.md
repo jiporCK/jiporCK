@@ -6,8 +6,13 @@
   <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=jiporCK&theme=onedark" />
 </div>
 
+### 📊 Github Stats
+<a href='https://github.com/jiporCK/github-stats-transparent'>
+  
 ![Stats Overview](https://raw.githubusercontent.com/jiporCK/github-stats-transparent/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/jiporCK/github-stats-transparent/output/generated/languages.svg)
+
+</a>
 
 ## Feeding...
 ![Snake animation](https://raw.githubusercontent.com/jiporCK/jiporCK/output/github-contribution-grid-snake-dark.svg)
