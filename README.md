@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Snake animation](https://raw.githubusercontent.com/{username}/{username}/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/jiporCK/jiporCK/output/github-contribution-grid-snake-dark.svg)
 <!--
 **jiporCK/jiporCK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
