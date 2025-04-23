@@ -1,5 +1,5 @@
 ## My Journey
-  <div>
+  <div style="display: flex; justify-content: evenly; ">
   <img width="440px" src="https://github-readme-stats.vercel.app/api?username=jiporCK&show_icons=true&theme=onedark">
   <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jiporCK&layout=compact&theme=onedark" />
   </div>
