@@ -2,9 +2,9 @@
   <div>
   <img width="440px" src="https://github-readme-stats.vercel.app/api?username=jiporCK&show_icons=true&theme=onedark">
   <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jiporCK&layout=compact&theme=onedark" />
-  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=jiporCK&theme=github">
-  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=jiporCK&theme=onedark">
-    </div>
+        </div>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jiporCK&theme=github">
+<!--   <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=jiporCK&theme=onedark"> -->
 
 ## Feeding...
 ![Snake animation](https://raw.githubusercontent.com/jiporCK/jiporCK/output/github-contribution-grid-snake-dark.svg)
