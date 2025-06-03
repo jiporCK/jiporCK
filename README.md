@@ -3,6 +3,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="php" width="45" height="45"/>
+<img src="https://cdn.worldvectorlogo.com/logos/spring-boot-1.svg" alt="php" width="45" height="45"/>
+<img src="https://miro.medium.com/v2/resize:fit:600/1*i2skbfmDsHayHhqPfwt6pA.png" alt="php" width="45" height="45"/>
+<img src="https://miro.medium.com/v2/resize:fit:720/1*_bJ2z2NRfTncHAv5UjUxwA.jpeg" alt="php" width="45" height="45"/>
+<img src="https://avatars.githubusercontent.com/u/18133?s=280&v=4" alt="php" width="45" height="45"/>
+  <img src="https://education.oracle.com/file/general/p-80-java.png" alt="php" width="45" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/640px-ISO_C%2B%2B_Logo.svg.png" alt="php" width="45" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/800px-Postgresql_elephant.svg.png" alt="php" width="45" height="45"/>
 </p>
 ## My Journey
   <div>
