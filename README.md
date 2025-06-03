@@ -11,6 +11,7 @@
   <!--  Java -->
   <img src="https://www.it-trainings.de/wp-content/uploads/2025/02/java-14-logo-png-transparent-250x250.png" alt="php" width="45" height="45"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/640px-ISO_C%2B%2B_Logo.svg.png" alt="php" width="45" height="45"/>
+  <img src="https://www.jetbrains.com/guide/assets/csharp-logo-265a149e.svg" alt="php" width="45" height="45"/>
   
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/800px-Postgresql_elephant.svg.png" alt="php" width="45" height="45"/>
   <img src="https://cdn.freebiesupply.com/logos/large/2x/mysql-5-logo-png-transparent.png" alt="php" width="45" height="45"/>
