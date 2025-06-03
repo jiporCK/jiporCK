@@ -21,7 +21,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="php" width="45" height="45"/>
     <!-- IDE -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/08/JetBrains_beam_logo.svg/2048px-JetBrains_beam_logo.svg.png" alt="vscode" width="45" height="45"/>
+   <img src="https://logowik.com/content/uploads/images/jetbrains-new-20249012.logowik.com.webp" alt="vscode" width="45" height="45"/>
   
 </p>
 ## My Journey
