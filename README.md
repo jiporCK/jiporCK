@@ -1,6 +1,6 @@
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="php" width="45" height="45"/>
 <img src="https://cdn.worldvectorlogo.com/logos/spring-boot-1.svg" alt="php" width="45" height="45"/>
@@ -8,8 +8,10 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" alt="php" width="45" height="45"/>
 <img src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png" alt="php" width="45" height="45"/>
 <img src="https://avatars.githubusercontent.com/u/18133?s=280&v=4" alt="php" width="45" height="45"/>
+  <!--  Java -->
   <img src="https://www.it-trainings.de/wp-content/uploads/2025/02/java-14-logo-png-transparent-250x250.png" alt="php" width="45" height="45"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/640px-ISO_C%2B%2B_Logo.svg.png" alt="php" width="45" height="45"/>
+  
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/800px-Postgresql_elephant.svg.png" alt="php" width="45" height="45"/>
   <img src="https://cdn.freebiesupply.com/logos/large/2x/mysql-5-logo-png-transparent.png" alt="php" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/docker-library/docs/d14b6718efb17e85f7a72ceb5de0718786367884/couchdb/logo.png" alt="php" width="45" height="45"/>
@@ -17,6 +19,10 @@
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-html-5-logo-icon-download-in-svg-png-gif-file-formats--programming-langugae-language-pack-logos-icons-1175208.png" alt="php" width="45" height="45"/>
   <img src="https://img.icons8.com/fluent/512/css3.png" alt="php" width="45" height="45"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="php" width="45" height="45"/>
+    <!-- IDE -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/08/JetBrains_beam_logo.svg/2048px-JetBrains_beam_logo.svg.png" alt="vscode" width="45" height="45"/>
+  
 </p>
 ## My Journey
   <div>
