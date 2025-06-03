@@ -5,6 +5,7 @@
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="php" width="45" height="45"/>
 <img src="https://cdn.worldvectorlogo.com/logos/spring-boot-1.svg" alt="php" width="45" height="45"/>
 <img src="https://miro.medium.com/v2/resize:fit:600/1*i2skbfmDsHayHhqPfwt6pA.png" alt="php" width="45" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" alt="php" width="45" height="45"/>
 <img src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png" alt="php" width="45" height="45"/>
 <img src="https://avatars.githubusercontent.com/u/18133?s=280&v=4" alt="php" width="45" height="45"/>
   <img src="https://www.it-trainings.de/wp-content/uploads/2025/02/java-14-logo-png-transparent-250x250.png" alt="php" width="45" height="45"/>
