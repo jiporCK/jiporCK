@@ -7,9 +7,12 @@
 <img src="https://miro.medium.com/v2/resize:fit:600/1*i2skbfmDsHayHhqPfwt6pA.png" alt="php" width="45" height="45"/>
 <img src="https://miro.medium.com/v2/resize:fit:720/1*_bJ2z2NRfTncHAv5UjUxwA.jpeg" alt="php" width="45" height="45"/>
 <img src="https://avatars.githubusercontent.com/u/18133?s=280&v=4" alt="php" width="45" height="45"/>
-  <img src="https://education.oracle.com/file/general/p-80-java.png" alt="php" width="45" height="45"/>
+  <img src="https://www.it-trainings.de/wp-content/uploads/2025/02/java-14-logo-png-transparent-250x250.png" alt="php" width="45" height="45"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/640px-ISO_C%2B%2B_Logo.svg.png" alt="php" width="45" height="45"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/800px-Postgresql_elephant.svg.png" alt="php" width="45" height="45"/>
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/mysql-5-logo-png-transparent.png" alt="php" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/docker-library/docs/d14b6718efb17e85f7a72ceb5de0718786367884/couchdb/logo.png" alt="php" width="45" height="45"/>
+  <img src="https://products.containerize.com/blockchain-platforms/hyperledger-fabric/menu_image.png" alt="php" width="45" height="45"/>
 </p>
 ## My Journey
   <div>
