@@ -13,7 +13,7 @@
   <img src="https://cdn.freebiesupply.com/logos/large/2x/mysql-5-logo-png-transparent.png" alt="php" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/docker-library/docs/d14b6718efb17e85f7a72ceb5de0718786367884/couchdb/logo.png" alt="php" width="45" height="45"/>
   <img src="https://products.containerize.com/blockchain-platforms/hyperledger-fabric/menu_image.png" alt="php" width="45" height="45"/>
-  <img src="https://e7.pngegg.com/pngimages/410/100/png-clipart-web-development-html-responsive-web-design-logo-javascript-html-angle-web-design-thumbnail.png" alt="php" width="45" height="45"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-html-5-logo-icon-download-in-svg-png-gif-file-formats--programming-langugae-language-pack-logos-icons-1175208.png" alt="php" width="45" height="45"/>
   <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" alt="php" width="45" height="45"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="php" width="45" height="45"/>
 </p>
