@@ -28,7 +28,8 @@
    <img src="https://static-00.iconduck.com/assets.00/jetbrains-icon-2048x2048-f1almn4u.png" alt="vscode" width="45" height="45"/>
   
 </p>
-## My Journey
+
+## Journey
   <div>
   <img width="440px" src="https://github-readme-stats.vercel.app/api?username=jiporCK&show_icons=true&theme=onedark">
   <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jiporCK&layout=compact&theme=onedark" />
