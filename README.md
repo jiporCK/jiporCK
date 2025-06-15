@@ -25,7 +25,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="php" width="45" height="45"/>
     <!-- IDE -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-   <img src="https://static-00.iconduck.com/assets.00/jetbrains-icon-2048x2048-f1almn4u.png" alt="vscode" width="45" height="45"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" alt="vscode" width="45" height="45"/>
   
 </p>
 
