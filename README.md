@@ -6,7 +6,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/spring-boot-1.svg" alt="php" width="45" height="45"/>
 <img src="https://miro.medium.com/v2/resize:fit:600/1*i2skbfmDsHayHhqPfwt6pA.png" alt="php" width="45" height="45"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" alt="php" width="45" height="45"/>
-  <img src="https://static-00.iconduck.com/assets.00/file-type-nginx-icon-1793x2048-yt5u3fm7.png" alt="php" width="45" height="45"/>
+  <img src="https://images.icon-icons.com/2699/PNG/512/nginx_logo_icon_169915.png" alt="php" width="45" height="45"/>
 
 <img src="https://runcode-app-public.s3.amazonaws.com/images/online-reactjs-editor-compiler.original.png" alt="php" width="45" height="45"/>
 <img src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png" alt="php" width="45" height="45"/>
