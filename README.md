@@ -15,7 +15,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/640px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="45" height="45"/>
   <img src="https://www.jetbrains.com/guide/assets/csharp-logo-265a149e.svg" alt="C#" width="45" height="45"/>
   <img src="https://products.containerize.com/blockchain-platforms/hyperledger-fabric/menu_image.png" alt="Hyperledger Fabric" width="45" height="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" alt="Golang" width="45" height="45">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT64MUSJsELElo4AMBfmvUoF-2Cy-j3dkJ52Q&s" alt="Golang" width="45" height="45">
 </p>
 
 ### Database
