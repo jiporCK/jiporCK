@@ -2,7 +2,7 @@
 
 ### Frontend
 <p align="left">
-  <img src="https://runcode-app-public.s3.amazonaws.com/images/online-reactjs-editor-compiler.original.png" alt="ReactJS" width="45" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="ReactJS" width="45" height="45"/>
   <img src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png" alt="NextJS" width="45" height="45"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="45" height="45"/>
 </p>
