@@ -2,7 +2,7 @@
 
 ### 🚀 Backend Developer | Blockchain Enthusiast | Problem Solver
 
-Architecting high-performance backends and decentralized futures. From C++ memory management to Hyperledger Fabric orchestration, I transform complex requirements into clean, scalable reality. Minimalist design, maximalist logic.
+Architecting high-performance backends and decentralized futures. From C++ memory management to Hyperledger Fabric orchestration, I transform complex requirements into clean, scalable reality. Minimalist design, maximalist logic. </br>
 I believe in writing code that is as clean as this README.
 
 ---
