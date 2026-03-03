@@ -2,7 +2,7 @@
 
 ### 🚀 Backend Developer | Blockchain Enthusiast | Problem Solver
 
-I specialize in building scalable backend systems, exploring the depths of blockchain with Hyperledger, and occasionally dabbling in the frontend to make things look pretty. I believe in writing code that is as clean as this README.
+Architecting high-performance backends and decentralized futures. From C++ memory management to Hyperledger Fabric orchestration, I transform complex requirements into clean, scalable reality. Minimalist design, maximalist logic. I believe in writing code that is as clean as this README.
 
 ---
 
@@ -44,4 +44,4 @@ I specialize in building scalable backend systems, exploring the depths of block
 [**LinkedIn**](https://linkedin.com/in/your-profile) | [**Email**](mailto:your@email.com)
 
 ---
-*"The best error message is the one that never shows up."*
+*"In a world of 'Move fast and break things,' I prefer 'Think hard and build things that last.'"*
