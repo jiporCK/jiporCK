@@ -11,10 +11,11 @@ I believe in writing code that is as clean as this README.
 
 #### **Backend & Systems**
 - **Languages:** `C++`, `Python`, `Go`, `Java`
+- **Build Tools:** `Gradle`, `CMake`
 - **Frameworks:** `Spring Boot`
 
 #### **Databases & Caching**
-- **Relational:** `PostgreSQL`, `Oracle`
+- **Relational:** `PostgreSQL`, `Oracle`, `MySQL`
 - **NoSQL:** `MongoDB`, `Redis`, `CouchDB`
 
 #### **Blockchain & Web3**
