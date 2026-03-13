@@ -40,6 +40,7 @@ I believe in writing code that is as clean as this README.
 ### 📊 GitHub Stats
 
 ![Chipor's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=jiporCK&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiporCK&layout=compact&theme=dark&hide_border=true)
 
 ---
 
