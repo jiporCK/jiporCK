@@ -22,6 +22,7 @@ I believe in writing code that is as clean as this README.
 - **Distributed Ledgers:** `Hyperledger Fabric`, `Firefly`
 
 #### **Cloud & DevOps**
+- **Virtualization:** `Docker`, `Docker Compose`, `Kubernetes`
 - **Platforms:** `Google Cloud (GCP)`, `AWS`, `Digital Ocean`
 - **Automation:** `CI/CD Pipelines`, `Git`, `Shell Scripting`
 - **Web Servers:** `Nginx`
