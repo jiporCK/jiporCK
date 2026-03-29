@@ -1,4 +1,4 @@
-# Hi there, I'm Sreng Chipor 👋
+# Hi! I'm Sreng Chipor 👋
 
 ### 🚀 Backend Developer | Blockchain Enthusiast | Problem Solver
 
