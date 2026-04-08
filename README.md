@@ -45,7 +45,7 @@ I believe in writing code that is as clean as this README.
 ---
 
 ### 📫 Connect with me:
-[**LinkedIn**](https://linkedin.com/in/your-profile) | [**Email**](mailto:your@email.com)
+[**Email**](mailto:srengchipor99@gmail.com)
 
 ---
 *"In a world of 'Move fast and break things,' I prefer 'Think hard and build things that last.'"*
