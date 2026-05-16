@@ -1,6 +1,6 @@
 # Hi! I'm Sreng Chipor 👋
 
-### 🚀 Backend Developer | Blockchain Enthusiast | Problem Solver
+### 🚀 Backend Developer | Blockchain Enthusiast | Cybersecurity Research | Problem Solver
 
 Architecting high-performance backends and decentralized futures. From C++ memory management to Hyperledger Fabric orchestration, I transform complex requirements into clean, scalable reality. Minimalist design, maximalist logic. </br>
 I believe in writing code that is as clean as this README.
