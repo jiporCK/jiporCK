@@ -1,16 +1,16 @@
 # Hi! I'm Sreng Chipor 👋
 
-### 🚀 Backend Developer | Blockchain Enthusiast | Cybersecurity Research | Problem Solver
+### 🚀 Backend Developer | Blockchain Enthusiast | Offensive Security Researcher | Problem Solver
 
 👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻 </br>
-👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻
+👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨•💻👨‍💻👨‍💻👨‍💻👨‍💻
 
 ---
 
 ### 🛠 My Tech Stack
 
 #### **Backend & Systems**
-- **Languages:** `C++`, `Python`, `Go`, `Java`
+- **Languages:** `C++`, `Java`, `Go`, `Python`
 - **Build Tools:** `Gradle`, `CMake`
 - **Frameworks:** `Spring Boot`
 
@@ -22,10 +22,10 @@
 - **Distributed Ledgers:** `Hyperledger Fabric`, `Firefly`
 
 #### **Cloud & DevOps**
-- **Virtualization:** `Docker`, `Docker Compose`, `Kubernetes`
+- **Virtualization & Orchestration:** `Docker`, `Docker Compose`, `Kubernetes`
+- **Routing & Web Servers:** `Traefik`, `Nginx`
 - **Platforms:** `Google Cloud (GCP)`, `AWS`, `Digital Ocean`
 - **Automation:** `CI/CD Pipelines`, `Git`, `Shell Scripting`
-- **Web Servers:** `Nginx`
 - **OS:** `Linux (Ubuntu/Debian)`
 
 #### **Frontend & Design**
@@ -34,6 +34,22 @@
 
 #### **Development Environment**
 - **IDEs:** `JetBrains Suite`, `VS Code`
+
+---
+
+### 🎯 Cybersecurity & Red Teaming
+
+#### **Reconnaissance & Network Assessment**
+- Infrastructure mapping, port scanning, and service enumeration using `Nmap` and network analysis tools.
+- OSINT (Open Source Intelligence) and attack surface discovery.
+
+#### **Web & API Penetration Testing**
+- Auditing web applications and backend APIs for structural flaws (OWASP Top 10, BOLA/IDOR, injection vulnerabilities).
+- Traffic interception, request tampering, and analysis using `Burp Suite` and routing proxies.
+
+#### **System Security & Exploit Mechanics**
+- Studying Linux/Windows privilege escalation vectors and defensive bypasses.
+- Scripting tailored automation tools in `Python` and `Go` for defensive analysis and environment verification.
 
 ---
 
