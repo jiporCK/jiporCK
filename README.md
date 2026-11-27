@@ -1,52 +1,87 @@
+<div align="center">
+
 # Sreng Chipor
 
 ### Backend Engineer · Systems Enthusiast · Security Researcher
 
-I build backend systems, explore distributed architectures, and experiment with technologies that power modern infrastructure.
+Building backend systems, exploring distributed architectures, and learning how things work beneath the surface.
 
-My interests span backend engineering, distributed systems, blockchain infrastructure, and offensive security. I enjoy understanding how things work beneath the surface, from database internals and network protocols to application security and system architecture.
+<br>
 
-> A generalist by curiosity, an engineer by practice.
+*A generalist by curiosity, an engineer by practice.*
+
+<br>
+
+[![Email](https://img.shields.io/badge/Email-Contact-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srengchipor99@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Alternative-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jiporsreng206@gmail.com)
+
+</div>
 
 ---
 
-### Tech Stack
+## About
 
-**Languages**
-`Java` `Go` `Python` `C++`
+I'm interested in the engineering behind reliable systems: backend development, distributed architectures, databases, infrastructure, and blockchain technology.
 
-**Backend & Databases**
-`Spring Boot` `PostgreSQL` `Oracle` `MySQL` `MongoDB` `Redis` `CouchDB`
+I also enjoy looking at software from the other side of the security boundary. I study application security, perform hands-on security labs, and build small tools to understand how systems behave and where they break.
 
-**Infrastructure & Cloud**
-`Docker` `Kubernetes` `Traefik` `Nginx` `Linux` `GCP` `AWS`
+I learn by building, investigating, and connecting ideas across different areas of technology.
 
-**Blockchain**
-`Hyperledger Fabric` `Hyperledger FireFly`
+## Technology
 
-### Security
+### Languages
 
-Interested in understanding systems from an attacker's perspective.
+<p>
+  <img src="https://skillicons.dev/icons?i=java,go,python,cpp&theme=dark" alt="Java, Go, Python, C++" />
+</p>
 
-- Web & API Penetration Testing
+### Backend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,postgres,mysql,mongodb,redis&theme=dark" alt="Spring, PostgreSQL, MySQL, MongoDB, Redis" />
+</p>
+
+`Oracle` · `CouchDB`
+
+### Infrastructure & Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,linux,gcp,aws&theme=dark" alt="Docker, Kubernetes, Nginx, Linux, Google Cloud, AWS" />
+</p>
+
+`Traefik`
+
+### Blockchain
+
+`Hyperledger Fabric` · `Hyperledger FireFly`
+
+## Security
+
+Interested in understanding systems from an attacker's perspective, then using that understanding to build and defend them better.
+
+- Web and API penetration testing
 - OWASP Top 10
-- Reconnaissance & OSINT
-- Linux & Windows Privilege Escalation
+- Reconnaissance and OSINT
+- Linux and Windows privilege escalation
 - Burp Suite · Caido · Nmap
-- Custom Security Tooling with Python & Go
+- Custom security tooling with Python and Go
 
-### Current Interests
+## Currently Exploring
 
 - Distributed systems and backend architecture
 - Blockchain infrastructure and permissioned networks
 - Application security and penetration testing
 - Systems programming and low-level concepts
 
-### Connect
+## Connect
 
-- Email: [srengchipor99@gmail.com](mailto:srengchipor99@gmail.com)
-- Email: [jiporsreng206@gmail.com](mailto:jiporsreng206@gmail.com)
+- **Email:** [srengchipor99@gmail.com](mailto:srengchipor99@gmail.com)
+- **Alternative:** [jiporsreng206@gmail.com](mailto:jiporsreng206@gmail.com)
 
 ---
 
-> Think hard and build things that last.
+<div align="center">
+
+*Think hard and build things that last.*
+
+</div>
