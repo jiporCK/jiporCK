@@ -9,7 +9,7 @@ Docker · Kubernetes · Traefik · Nginx · Linux · GCP · AWS
 Hyperledger Fabric · Hyperledger FireFly
 
 **Security**
-Web & API pentesting (OWASP Top 10, BOLA/IDOR) · Recon & OSINT · Linux/Windows privilege escalation · Burp Suite · Nmap · Custom tooling in Python & Go
+Web & API pentesting (OWASP Top 10) · Recon & OSINT · Linux/Windows privilege escalation · Burp Suite/Caido · Nmap · Custom tooling in Python & Go
 
 **Contact**: [srengchipor99@gmail.com](mailto:srengchipor99@gmail.com)
 
