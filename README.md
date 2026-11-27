@@ -69,7 +69,6 @@ Interested in understanding systems from an attacker's perspective, then using t
 ## Currently Exploring
 
 - Distributed systems and backend architecture
-- Blockchain infrastructure and permissioned networks
 - Application security and penetration testing
 - Systems programming and low-level concepts
 
