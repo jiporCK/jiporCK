@@ -12,5 +12,6 @@ Hyperledger Fabric · Hyperledger FireFly
 Web & API pentesting (OWASP Top 10) · Recon & OSINT · Linux/Windows privilege escalation · Burp Suite/Caido · Nmap · Custom tooling in Python & Go
 
 **Contact**: [srengchipor99@gmail.com](mailto:srengchipor99@gmail.com)
+             [jiporsreng206@gmail.com](mailto:jiporsreng206@gmail.com)
 
 > Think hard and build things that last.
