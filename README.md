@@ -46,7 +46,7 @@ I learn by building, investigating, and connecting ideas across different areas 
 ### Infrastructure & Cloud
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,traefik,linux,gcp,aws&theme=dark" alt="Docker, Kubernetes, Nginx, Linux, Google Cloud, AWS" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,linux,gcp,aws&theme=dark" alt="Docker, Kubernetes, Nginx, Linux, Google Cloud, AWS" />
 </p>
 
 `Traefik`
